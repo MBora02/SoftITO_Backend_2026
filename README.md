@@ -36,7 +36,7 @@ This journey is split into two core phases: the foundational **Online Bootcamp**
 
 | # | Project Name | Description | Tech Stack | Repository Link |
 |---|---|---|---|---|
-| 1 | **[Project Name 1]** | *Enter description here* | *Tech stack used* | [📁 Go to Repository](https://github.com/your-github-username/phase2-project-1-repo) |
+| 1 | **Task Management** | A web-based administration and coordination portal that manages corporate tasks, projects, departments, and employees, featuring role-based dashboards, secure authentication, and automated Excel and PDF reporting. | C#, ASP.NET Core MVC, EF Core, SQL Server, Bootstrap 5, EPPlus, QuestPDF, JavaScript | [📁 Go to Repository](https://github.com/MBora02/taskManagementMVC) |
 | 2 | **[Project Name 2]** | *Enter description here* | *Tech stack used* | [📁 Go to Repository](https://github.com/your-github-username/phase2-project-2-repo) |
 | 3 | **[Project Name 3]** | *Enter description here* | *Tech stack used* | [📁 Go to Repository](https://github.com/your-github-username/phase2-project-3-repo) |
 | 4 | **[Project Name 4]** | *Enter description here* | *Tech stack used* | [📁 Go to Repository](https://github.com/your-github-username/phase2-project-4-repo) |

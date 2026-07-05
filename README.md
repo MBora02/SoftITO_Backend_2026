@@ -24,10 +24,10 @@ This journey is split into two core phases: the foundational **Online Bootcamp**
 
 | # | Project Name | Description | Tech Stack | Repository Link |
 |---|---|---|---|---|
-| 1 | **[Project Name 1]** | *Enter description here* | *Tech stack used* | [📁 Go to Repository](https://github.com/your-github-username/project-1-repo) |
-| 2 | **[Project Name 2]** | *Enter description here* | *Tech stack used* | [📁 Go to Repository](https://github.com/your-github-username/project-2-repo) |
-| 3 | **[Project Name 3]** | *Enter description here* | *Tech stack used* | [📁 Go to Repository](https://github.com/your-github-username/project-3-repo) |
-| 4 | **[Project Name 4]** | *Enter description here* | *Tech stack used* | [📁 Go to Repository](https://github.com/your-github-username/project-4-repo) |
+| 1 | **📚 LibraryAutomation** | A desktop application that automates library administration by managing books, user accounts, and borrowing transactions, featuring real-time availability tracking and SQL-based analytics reporting. | C#, Windows Forms, ADO.NET, SQL Server | [📁 Go to Repository](https://github.com/MBora02/LibraryAutomation) |
+| 2 | **🏥 Hospital Automation System** | A Windows Forms desktop application designed to streamline hospital administration by managing patient records, doctor allocations, and polyclinic scheduling using stored procedures. | C#, .NET Framework 4.8, Windows Forms, ADO.NET, SQL Server, T-SQL | [📁 Go to Repository](https://github.com/MBora02/AdonetProcProject) |
+| 3 | 🏥 HospitalAutomationEf | A Windows Forms desktop application that automates hospital workflows by managing medical staff, patients, polyclinics, and prescriptions, utilizing LINQ to execute advanced reporting queries. | C#, Windows Forms, Entity Framework (EF 6), SQL Server, LINQ | [📁 Go to Repository](https://github.com/MBora02/HospitalAutomationEf) |
+| 4 | **🚗 CarDealershipModelFirstEf** | A desktop Windows Forms application designed to streamline car dealership operations by managing branch locations, customer records, vehicle inventory, and generating LINQ-based analytical reports. | C#, .NET Framework 4.8, Windows Forms, Entity Framework 6 (Model-First), SQL Server, LINQ | [📁 Go to Repository](https://github.com/MBora02/CarDealershipModelFirstEf) |
 
 ---
 

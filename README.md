@@ -1,4 +1,4 @@
-# 🚀 SoftITo Backend Engineering Journey
+# 🚀 SoftITo Backend Developer Journey
 
 Welcome to my digital diary and master portfolio showcasing my transition into a Backend Engineer. This repository serves as the central hub and navigation dashboard for my **320-hour intensive Backend Engineering Training Program** organized by **SoftITo** in collaboration with the **Istanbul Chamber of Commerce (İTO)**.
 

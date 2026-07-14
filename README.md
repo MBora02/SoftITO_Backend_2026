@@ -1,4 +1,4 @@
-# 🚀 SoftITo Backend Engineering Journey: 320 Hours to Mastery
+# 🚀 SoftITo Backend Engineering Journey
 
 Welcome to my digital diary and master portfolio showcasing my transition into a Backend Engineer. This repository serves as the central hub and navigation dashboard for my **320-hour intensive Backend Engineering Training Program** organized by **SoftITo** in collaboration with the **Istanbul Chamber of Commerce (İTO)**.
 
@@ -56,4 +56,4 @@ This journey is split into two core phases: the foundational **Online Bootcamp**
 3. **API Design & Standards:** Developed clean, structured APIs emphasizing HTTP standard verbs, status codes, DTO mapping, and Swagger documentation.
 4. **Performance & Security:** Explored caching, rate limiting, and secure user authentication flows.
 
-> *"Software is a continuous build. See you in the next project!"*
+
